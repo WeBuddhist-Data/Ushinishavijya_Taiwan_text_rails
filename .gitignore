@@ -7,6 +7,10 @@
 .obsidian/plugins/obsidian-git/data.json
 .obsidian/plugins/gemini-scribe/data.json
 
+# API credentials (never commit)
+.env
+**/.env
+
 # System junk
 .trash/
 .DS_Store
