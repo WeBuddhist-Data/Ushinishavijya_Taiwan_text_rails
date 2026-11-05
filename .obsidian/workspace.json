@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/en-immaculate-jewel.md",
+                "file": "1-SOURCES/Translations/zh-immaculate-jewel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "en-immaculate-jewel"
+              "title": "zh-immaculate-jewel"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a99fc0a341b15e43",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md",
     "1-SOURCES/Text/en-immaculate-jewel.md",
+    "1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md",
     "1-SOURCES/Translations/zh-unceasing-melody-of-deathlessness.md",
     "1-SOURCES/Translations/zh-melodious-speech-that-gathers-auspiciousness.md",
     "1-SOURCES/Translations/zh-immaculate-jewel.md",
