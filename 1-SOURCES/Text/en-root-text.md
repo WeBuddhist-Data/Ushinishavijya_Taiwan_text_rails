@@ -1,11 +1,11 @@
 ---
-title: "The Immaculate Jewel"
-author: "Padma Garwang Lodro Thaye"
+title: The Unceasing Melody of Deathlessness
+author:
 file_type: root-text
 language: English
 script: Latin
 lang_tag: en
-source_description: "English text of the Ushnishavijaya dharani consecration and thousand-offering liturgy from The Heart Essence of Deathless Arya Tara (Chimé Phagma Nyingtik). Extracted from the trilingual Word file Ushinisha_Text.doc (2026-11-05) and received as Ushnisha_English.docx, kept at 0-INBOX/raw-data/Ushnisha_English.docx. The file opens with the lineage prayer 'The Unceasing Melody of Deathlessness' (colophon: written by Padma Mantrika, Padma Wangchen Gyepa Tsal) and closes with a supplication whose colophon names Lodrö Thaye and Chökyi Lodrö, translated by Sonam Phuntsho and Steve Cline (March 2008). The author field is taken from the main liturgy's colophon. Each line keeps its original paragraph; tabs between the two columns of romanized Tibetan are preserved; italics and bold carried over from the Word file; footnote markers shown as <sup>."
+source_description: "English text of the Ushnishavijaya dharani consecration and thousand-offering liturgy from The Heart Essence of Deathless Arya Tara (Chimé Phagma Nyingtik). Extracted from the trilingual Word file Ushinisha_Text.doc (2026-11-05) and received as Ushnisha_English.docx, kept at 0-INBOX/raw-data/Ushnisha_English.docx. The file opens with the lineage prayer 'The Unceasing Melody of Deathlessness' (colophon: written by Padma Mantrika, Padma Wangchen Gyepa Tsal) and closes with a supplication whose colophon names Lodrö Thaye and Chökyi Lodrö, translated by Sonam Phuntsho and Steve Cline (March 2008). Romanized Tibetan transliteration lines removed at the contributor's request (2026-11-05); Sanskrit mantras retained. Each line keeps its original paragraph; italics and bold carried over from the Word file; footnote markers shown as <sup>."
 status: 0-raw
 verse_id_format:
 related_translations:
@@ -19,64 +19,46 @@ The Lineage Prayer for the Thousand Offerings to the Five Ushnishavijaya Deities
 *from The Heart Essence of Deathless Arya Tara*
 *(Chimé Phagma Nyingtik)*
 
-Chime dudtsi chok nyes deshek kyi				Chime palgyi jungney tsugtor le
-Chime dud le namgyal rigngak chang				Chime dechen tsol chir sol wa deb
 To the deity of the mantra of awareness with complete victory over the Mara of death,
 Born from Ushnisha, the source of the glorious deathlessness of the sugatas
 Who has obtained the supreme nectar-like essence of deathlessness,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime padmai rigdak tsepakme 					Chime chok jin yizhin khorlo che
-Chime kyilkhor gyatsoi lhatsok la				Chime dechen tsol chir sol wa deb
 To deathless Amitayus, Sovereign Lord of the Lotus Family,
 Great Yizhin Khorlo, bestower of supreme deathlessness,
 Deities of the infinite mandala of deathlessness,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime rig tsal wang thob shri singha				Chime phochen ku nyes vimala
-Chime drupai tsokje tsokyi je					Chime dechen tsol chir solwa deb
 To Shri Singha, who received the empowerment of the display of deathless awareness,
 Vimalamitra, who attained the deathless body of Great Transference,
 Tsokye Dorje, Lord of all those who have attained deathlessness,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime dampai dzo dzin ngadak je			Chime ngon gyur vairo nam nying nub
-Chime daki tsogyal gyal chok yang			Chime dechen tsol chir sol wa deb
 To the Sovereign Lord, holder of the treasury of the teachings on deathlessness,
 Vairochana, Namkhai Nyingpo and Nubchen Sangye Yeshe, who have truly attained deathlessness,
 The deathless dakini Tsogyal and Gyalwa Chokyang,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime rigdzin gyatsoi yeshe ter				Chime lha dang daki je su zung
-Chime dampai sol jed do-ngak ling			Chime dechen tsol chir sol wa deb
 The treasury of wisdom of the ocean of deathless Vidyadharas,
 Cared for by deathless deities and dakinis,
 To Dongak Lingpa, the founder of the teachings on deathlessness,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime chokdrup tenyi yungdrung ling			Chime drupai zhal kyin dharmai tsen
-Chime dorjei rigdzin mati' zhab				Chime dechen tsol chir sol wa deb
 To Tenyi Yungdrung Lingpa, who attained the supreme siddhi of deathlessness,
 Holder of the name *Dharma*, who is the regent of the masters who attained deathlessness,
 The exalted *Mati*, deathless and indestructible Vidyadhara,
 I pray! Grant me the Great Bliss of Deathlessness.
 
-Chime yeshe chik gyi rolpa le				Chime rig kyi khorlo gyur wai yum
-Chime drup la le dze trowoi tsul				Chime ngodrup tsol chir sol wa deb
 To the Sovereign Mother of the family of deathlessness,
 Emanated from the single deathless wisdom,
 Appearing in wrathful forms to perform the activities of accomplishing deathlessness,
 I pray! Grant me the siddhi of Deathlessness.
 
-Chime wang gyi dudtsi gosum min			Chime lhayi thik gyud leg kul chir
-Chime drupai lamzang dir jug na				Chime tse dang yeshe chok tsol chig
 To mature Body, Speech and Mind with the magnetizing amrita of deathlessness,
 And invoke the minds of the deathless deities,
 I enter this excellent path to accomplish deathlessness,
 Please grant me deathless life and supreme wisdom.
 
-Chime dorjei sangwa ngon gyur ne			Chime ku dang yeshe pakme pe
-Chime ak pa dam pai trinle kyi				Chime nangwe sa sum dze gyur chig
 Directly recognizing the secrets of the vajra of deathlessness
 Through the inconceivable deathless body and wisdom,
 May the light of the deathlessness of the activity of the transcendent permanence of deathlessness,
@@ -130,10 +112,6 @@ a) The Precepts
 *All participants must wash their five limbs—arms, legs and head—and be cleansed with the smoke of frankincense or medicinal wood. Those ordained as novices who have not broken their vows need not take the one-day precepts. The practice will not be incomplete if they don’t take precepts. However, if some practitioners have not received the vow of renunciation, in the process when they take the one-day precepts it has become a tradition for novitiates and fully ordained monks who perform the ritual to aspire to firmly maintain their vows throughout their lives.*
 
 Taking Refuge and Generating Bodhicitta
-Sangye cho dang tsog kyi chok nam la
-Byang chup bar du dak ni kyab su che
-Dak gyi jin sog gyi pai sod nam kyis
-Drola phen chir sangye drupar shog
 I take refuge in the Buddha, Dharma and Sangha
 Until I attain complete enlightenment.
 Through the merit of practicing the Six Paramitas,
@@ -143,95 +121,55 @@ May I attain Buddhahood so that I may benefit all sentient beings.
 *As you say the* Seven-Branch Prayer *from* The Prayer of Excellent Discipline*, prostrate as many times as you can.*
 
 (1) *Prostration*
-Je nye su dak chok chui jigten na
-Dusum shekpa me yi senge kun
-Dak gyi ma lue dedag thamchad la
-Lue dang ngak yid dang we chak tsal lo
 To all the buddhas, the lions of the human race,
 In all the directions of the universe, past and present and future:
 To every single one of you, I bow in homage and
 Devotion fills my body, speech and mind.
 
-Zangpo chod pai monlam tob dak gyi
-Gyalwa tham chad yid kyi ngon sum du
-Zhing gyi dul nyed lue rab tud pa yi
-Gyalwa kun la rab tu chak tsal lo
 Through the power of this prayer of aspiration to engage in good actions,
 All the Victorious Ones appear vividly in my mind,
 And I multiply my body as many times as there are atoms in the universe,
 Each one bowing in prostration to all the buddhas.
 
 (2) *Offering*
-Dul chik teng na dul nyed sangye nam
-Sangye se che dbu na zhug pa dag
-De tar chokyi ying nam ma lue pa
-Tham chad gyalwa dak gyi gang war moe
 In every atom presides as many buddhas as there are atoms,
 And around them, all their bodhisattva heirs:
 And so I imagine them filling
 Completely the entire space of reality.
 
-De dak ngakpa mi zed gyatso nam
-Yang kyi yenlak gyatsoi dra kun gyi
-Gyalwa kun gyi yonten rab jod ching
-Dewar shekpa thamched dak gyi tod
 Saluting them with an endless ocean of praise,
 With the sounds of an ocean of different melodies
 I sing of the buddhas’ noble qualities,
 And praise all those who have gone to perfect bliss.
 
-Metok dampa trengwa dampa dang
-Sil nyen nam dang jugpa dug chok dang
-Marme chok dang duk pe dam pa yi
-Gyalwa dedag la ni chod par gyi
 To every buddha, I make offerings:
 Of the loveliest flowers, of beautiful garlands,
 Of music and perfumed ointments, the best of parasols,
 The brightest lamps and finest incense.
 
-Naza dampa nam dang dri chok dang
-Che ma phur ma rirab nyam pa dang
-Kod pa chepar phak pai chok kun gyi
-Gyalwa dedak la ni chod par gyi
 To every buddha, I make offerings:
 Exquisite garments and the most fragrant scents,
 Powdered incense, heaped as high as Mount Meru,
 Arranged in perfect symmetry.
 
-Chod pa gang nam lame gya che wa
-Dedak gyalwa thamched la yang moe
-Zangpo chod la de pai tob dag gyi
-Gyalwa kun la chak tsal chod par gyi
 Then the vast and unsurpassable offerings—
 Inspired by my devotion to all the buddhas, and
 Moved by the power of my faith in Good Actions—
 I prostrate and offer to all you victorious ones.
 
 (3) *Confession*
-Do chak zhe dang timuk wang gyi ni
-Lue dang ngak dang de zhin yid kyi kyang
-Dik pa dak gyi gipa ci chi pa
-Dedag thamched dak gyi so sor shak
 Whatever negative acts I have committed,
 While driven by desire, hatred and ignorance,
 With my body, my speech and also with my mind,
 Before you, I confess and purify each and every one.
 
 (4) *Rejoicing*
-Chok chui gyalwa kun dang sangye se
-Rang gyal nam dang lob dang mi lob dang
-Drowa kun gyi sonam gang la yang
-Dedag kung gyi je su dak yid rang
 With a heart full of delight, I rejoice at all the merits
 Of buddhas and bodhisattvas,
 Pratyekabuddhas, those in training and the arhats beyond training,
 And every living being, throughout the entire universe.
 
 (5) *Imploring the Buddhas to Turn the Wheel of Dharma*
-Gang nam chok chui jigten dron ma nam
-Jangchup rim par sangye machak nye
-Gonpo dedag dak gyi thamched la
-Khorlo lana med par kor war kul
 You who are like beacons of light shining through the worlds,
 Who passed through the stages of enlightenment, to attain
 buddhahood, freedom from all attachment,
@@ -239,51 +177,24 @@ I exhort you: all of you protectors,
 Turn the unsurpassable wheel of Dharma.
 
 (6) *Requesting the Buddhas not to Enter Nirvana*
-Nya ngen da ton gang zhed dedag la
-Dro wa kun la phen zhing dewai chir
-Kalpa zhing gyi dul nyed zhug par yang
-Dak gyi thal mo rab jar sol war gyi
 Joining my palms together, I pray
 To you who intend to pass into nirvana,
 Remain, for aeons as many as the atoms in this world,
 And bring well-being and happiness to all living beings.
 
 (7) *Dedication*
-Chak tsal wa dang chod ching shak pa dang
-Jesu yid rang kul zhing sol wa deb
-Gewa chung zed dak gyi chi sak pa
-Tham ched dak gyi jang chup chir ngo
 What little virtue I have gathered through my homage,
 Through offering, confession, and rejoicing,
 Through exhortation and prayer—all of it
 I dedicate to the enlightenment of all beings!
 
 Taking the Precepts
-Sangye dang byang chup sem pa tham ched la chak tsal lo
 I pay homage to all the buddhas and bodhisattvas.
 
-Ji tar ngon gyi dezhin shek pa dra chom pa yang dak par dzongpai sangye ta chang shes tabu.
-lang po chen po. jawa je shing. jed pa je pa. khur bor wa. rang gyi don je su thob pa. sidpa kuntu jor wa yong su zed pa. yang dak pai ka, lek par nam par drol wai thuk, lek par nam par drol wai sherab chen nam kyi, sem chen tham ched kyi don gyi chir dang, phen par jawai chir dang, drol war ja wai chir dang, ne med par ja wai chir dang, muge med par jawai chir dang, byang chup kyi cho nam yong su dzog par ja wai chir dang, lana med pa yang dak par dzog pai jang chup nge par tok par ja wai chir, sojong nge par dzed pa de zhin du, dak ming di zhe gye wai chang. di de ney zung te je sid nyima ma shar gyi bardu, sojong nge par lang war gyi wo
 The tathagatas, the destroyers of enemies, the perfectly-accomplished buddhas who were completely committed to benefiting others, like the selflessly courageous all-knowing horse, and who had the strength of the great elephant to bear the infinite abundance of compassion that inspired them to teach the unsurpassable mahayana; who had benefited themselves by perfectly completing the spiritual path, and worked tirelessly for the benefit of others. All the buddhas of the past, abandoned karma and conflicting emotions, attained their purpose, and completely exhausted the constraints of samsara.
 Endowed with perfect speech, completely liberated minds and transcendental wisdom, they truly embraced the precepts of mending broken vows and purifying defilements and transgressions for the benefit of all sentient beings.
 To help, liberate and free all sentient beings from sickness, dispel their hunger, thoroughly perfect all the dharma practices that bring about enlightenment, and truly realize unsurpassable, complete enlightenment, I...(   ) wholeheartedly embrace all the precepts from now on until sunrise tomorrow.
 
-Deng ne sok chod mi ja zhing
-Zhen gyi nor ni lang mi bya
-Trig pai cho chang mi chod ching
-Dzun gyi tsig kyang mi mma'o
-Kyon ni mang po nyer ten pai
-Chang ni yong su pang war bya
-Thri den che tho mi bya zhing
-Dezhin du ma yin pai zey
-Dri dang trengwa dang ni gyan
-Gar dang lu sog pang war bya
-Jiter dra chom tak tu ni
-Sog chod la sog mi jed bya
-Dezhin sog chod la sog pang
-Lame jangchup thob par shok
-Du ngal mang truk jigten di
-Sid pai tso le drol war shok
 From now on, I will not take the lives of others, nor accept their wealth.
 I shall not indulge in sexual activities, nor speak untruthful words.
 I will entirely give up alcohol, the source of many faults,
@@ -303,10 +214,6 @@ DHARA   SAMANTA   AVALOKITE   HUM   PHAT   SVAHA
 *Recite seven or twenty-one times*
 
 *Now make the following aspiration prayers.*
-Trim kyi tsultrim kyon med ching
-Tsultrim nampar dak dang den
-Lom sem med pai tsultrim kyi
-Tsultrim pha rol chin dzog shok
 Without any faults of discipline,
 Possessing perfect discipline,
 And by practicing discipline without grasping,
@@ -316,14 +223,6 @@ May I attain perfect discipline.
 The Sutra of the Recollection of the Noble Three Jewels.
 
 The Sutra of the Recollection of the Noble Three Jewels<sup>1</sup>
-Gya gar ke du
-Arya ratna tra ya anu smriti sutra
-Bod ke du
-Phakpa konchok sum je su dren pai do
-Tham ched khyen pa la chak tsal lo
-de tar sangye chom den de dezhin shek pa dra chom pa yang dag par dzog pai sangye rigpa dang zhab su den pa, de war shek pa, jigten khyen pa, kye bu dul wai kha lor gyur wa, lana med pa, lha dang mi nam kyi ton pa, sangye chom den de te, dezhin shekpa de ni sonam dak gyi gyu thun pa, gewai tsawa nam chud mi zawa, zod pa dag gyi rab tu gyan pa, sonam kyi ter nam kyi zhi,pe jed zangpo nam kyi tro pa, tsen nam kyi metok je pa, chod yul ren par thun pa, thong na mithun pa med pa, de pe mod pa nam la ngon par gawa, sherab zil gyi mi non pa, tob nam la dzi wa med pa, sem chen tham ched kyi ton pa, janchup sem pa nam kyi yab, phak pai gnag zag nam kyi gyal po, nya ngen le de pai drong khyer du dro wa nam kyi ded pon, yeshe pak tu med pa, popa sam gyi mi chab pa, sung nam par dak pa, yang nyen pa, ku byed ta we chok mi she pa, ku tsung pa med pa, dod pa dak gyi ma goe pa, zug dak gyi nye war ma goe pa, zug med pa dak dang ma dre pa, du-ngal le nam par drol wa, phung po dak le rab tu nam par drol wa, kham nam dang mi den pa, kye ched nam dam pa, dud pa nam shintu ched pa, yong su dung wa dak le nam par drol wa, sed pa le drol wa, chu wo le gal wa, yeshe yong su dzog pa, de pa dang, ma jon pa dang, da tar jung wai sangye chom den de nam kyi yeshe la ne pa, nya ngen le de pa la mi ne pa, yang dak pa nyid kyi tha la ne pa, sem chen tham ched la zig pai sa la zhug pa te, di dak ni sangye chom den de kyi ku che wai yonten yangdak pa nam so.
-Dam pai chos ni thig mar ge wa, bar du gewa, tha mar gewa, don zangpo, tsig dru zang po, ma dre pa, yong su dzog pa, yong su jang wa, chom den de kyi chos lek par sung wa, yang dak par thong wa, ned med pa, du ched pa med pa, nye war tod pa, de thon wa la don yod pa, khe pa nam kyi so so rang gyi rig par jawa, chom den de kyi sung pai chos dul wa la lek par ton pa, nge par jung wa, dzog pai jangchup tu dro war jed pa, mi thun pa med med ching, dupa dang den pa, ten yod pa ju wa che pa'o.
-Theg pa chen poi gedun ni, lek par zhug pa, rig par zhug pa, drang por zhug pa, thun par zhug pa, thal mo jar wai wo su gyur pa, chak ja wai wo su gyur pa, sonam kyi pal gyi zhing, yon yong su jong wa chenpo, jin pai ne su gyur pa, kuntu yang jin pai ne su gyur pa chen po'o.
 I prostrate to the Omniscient One.
 Thus, the Buddha, bhagavat, tathagata, arhat samyaksambuddha, the learnèd and virtuous one, the sugata, the knower of the world, the charioteer and tamer of beings, the unsurpassable on, the teacher of devas and men, is the Buddha bhagavat. The tathagata is in accord with all merit. He does not waste the roots of virtue. He is completely ornamented with all patience. He is the basis of the treasure of merit. He is adorned with the minor marks. He blossoms with the flowers of the major marks. His activity is timely and appropriate. Seeing him, he is without disharmony. He brings true joy to those who long with faith. His knowledge cannot be overpowered. His strengths cannot be challenged. He is the teacher of all sentient beings. He is the father of bodhisattvas. He is the king of noble ones. He is the guide of those who journey to the city of nirvana. He possesses immeasurable wisdom. He possesses inconceivable confidence. His speech is completely pure. His melody is pleasing. One never has enough of seeing him. His form is incomparable. He is not stained by the formless realm. He is completely liberated from suffering. He is completely and utterly liberated from the skandhas. He is not possessed with dhatus. His ayatanas are controlled. He has completely cut the knots. He is completely liberated from extreme torment. He is liberated from craving. He has crossed over the river. He is perfected in all the wisdoms. he abides in the wisdom of the buddha bhagavats, who arise in the past, present and future. He does not abide in nirvana. He abides in the ultimate perfection. He dwells on the bhumi where he sees all sentient beings. All these are the perfect virtues of the greatness of the Buddha bhagavat.
 The holy dharma is good at the beginning, good in the middle and good at the end. Its meaning is excellent. Its words are excellent. It is uncorrupted. It is completely perfect and completely pure. It completely purifies. The bhagavat teaches the dharma well. It brings complete vision. It is free from sickness. It is always timely. It directs one further. Seeing it fulfills one’s purpose. It brings discrimination insight for the wise. The dharma which is taught by the bhagavat is revealed properly in the vinaya. It is renunciation. It causes one to arrive at perfect enlightenment. It is without contradiction. It is pithy. It is trustworthy and puts an end to the journey…
@@ -332,8 +231,6 @@ As for the sangha of the great yana, they enter completely. They enter insightfu
 
 b) Take Refuge
 
-Yeshe yonten kun gyi ter					Lama sangye chos tsok la
-Dak dang kha nyam semchen kun			Jangchup bar du chab su che
 In the Guru, Buddha, Dharma and Sangha,
 The treasury of all wisdom and qualities,
 I and all sentient beings as numerous as the sky is vast,
@@ -342,8 +239,6 @@ Take refuge until enlightenment.
 
 c) Generate Bodhicitta
 
-Sem kyed pa ni zhen don du				Dzog pai sangye thob jai chir
-Pha rol chin pa druk la sok				Gyalse chod pa lab chen ched
 I generate the aspiration to practise
 The vast discipline of the bodhisattvas,
 Such as the six paramitas, and so on,
@@ -353,12 +248,6 @@ To attain buddhahood so that I may benefit all beings.
 d) Accumulate Merit Through the Seven Branch Offering
 
 HO
-Chok du gyalwa se che dang				Nampar gyal mai zhab pe mor
-Zhing dul kun gyi drang nyed kyi			Go sum gue pe chak tsal lo
-Chi nang sang wa la med pai				Kunzang chotrin gyatsoe chod
-Dik drib nye tung thol zhing shak			Tsok nyi chod la je yi rang
-Chokyi khor lo kor zhin du				Nya ngen mi da zhug sol deb
-Ge tsok jangchup nying por ngo				Zhen don sangye drup par shok
 HO
 To the lotus feet of the buddhas and bodhisattvas of the ten directions,
 And to Ushnishavijaya, the Victorious Mother,
@@ -378,10 +267,6 @@ May I swiftly attain buddhahood for the benefit of all beings.
 
 e) Bless the Offering Substances
 
-Choying shintu namdak thu				Chochen tenching drel jung tob
-Gyal wa se dang che nam kyi				Thukje monlam jinlap le
-Ne yul dewa chen gyi zhing				Cho tsok lha dzey le drup pai
-Nyer chod dod yon sam mi chab				Kunzang namthar kha chab gyur
 By the power of the immaculate dharmadhatu,
 The truth of the dharma of dependent arising,
 And the blessings of compassion and aspiration
@@ -416,20 +301,6 @@ c) *Making Offerings, Offering Praise, and Requesting the Deities to Act (p.88)*
 
 a) Self-Visualization
 AH
-Kye wa med pai zung kyi go				Tong nyid du ma jed pa le
-Tsen ma med pai ten jung ni				Rang sem bhrum yig ser gyi dok
-Mon pa med pai dre bui tsul				Yeshe odzer pak ye thro
-Nod chud ngo dzin dag pa le				Cho kui choten tsen nyid dzog
-Bum nang ped dai den gyi teng				Bhrum le dak nyi ke chig gyi
-Rinchen tsugtor nampar gyal				Nyima char khai dang od chen
-Zhal chik chak nyi zhi zum gek				Dar dang rinchen metok gyan
-Chak ye chok jin chak gya ye				Norbui chak chue tse pal guk
-Yon pe nyam zhag chak gyai teng			Ngodrup chok tsol tse bum nam
-Zhab zung dorje kyil trung gyi				Odzer nang wai long na zhug
-Thug kar Natsok dorjei dbu				Bhrun thar ngak kyi treng we kor
-De pe odzer chok chur throe				Sid dang zhi wai tse pal kun
-Tsur dus thug sok ngak treng la				Thim pe dudtsi chu gyun bab
-Lue gang ned don dik drib dak				Tse pal yeshe gye par gyur
 AH
 Out of unconditioned emptiness,
 Which is the door of the unborn dharani
@@ -473,8 +344,6 @@ BISHODHANE   SARVA   PUNYE   AYUR   JNANA   PUSHTIM   KURU   SVAHA
 c) Making Offerings, Offering Praise and Requesting the Deities to Act
 
 OM
-Ngo jor yid kyi nam trul pai				Zhing kham gyatsoi cho dze kun
-Tsugtor nam par gyal mar bul				Zhe ne chime ngodrup tsol
 OM
 All the offering substances of countless the buddhafields,
 Those we have gathered, and those emanated by the mind,
@@ -487,16 +356,12 @@ DHUPE   ALOKE   GANDHE   NAIVEDYA   SHAPDA
 PRATISCHA   SVAHA
 
 OM
-Rinchen le kye rinchen dak				Rinchen nyingpoi odzer gyi
-Rinchen Yidzhin phel dzed pa				Rinchen tsugtor la chak tsal
 OM
 Belovèd sovereign, born from the essence of various jewels,
 By the rays of light emanating from these precious jewels,
 Increase the blessings of this precious essence according our wishes.
 To precious Ushnisha, I prostrate.
 
-Dak dang thaye semchen nam				Le nyon drib pa kun jang zhing
-Tsepal jorpa phel wa dang					Yeshe gye par dzed du sol
 Please purify the karmic defilements and conflicting emotions *(klesha)*
 Of myself and limitless sentient beings,
 Increase our life span, glory and wealth,
@@ -520,35 +385,6 @@ OM         AMRITE     HUM     PHAT
 *Purify with:*
 OM   SVABHAVA   SHUDHA   SARVA   DHARMA   SAMBHAVA   SHUDHO   HAM
 
-Tong pai ngang le dun gyi zhir		Rinchen natsok le drup pai
-Sazhi lak thil tabur nyam			Pak sam shing dang dudtsi dzing
-Yid throk chotrin sam mi chab		De dbu pema dawai teng
-Bhrum le bumpa tsen nyid dzog		Yang shing gya che chud kyi tam
-Lha dzey zangpoe lub pai teng		Drenpa nye war zhak pa sok
-Zag pa med pai yeshe ni			Chokui don tson choe dong che
-Tso ma ser gyi dok tar bar			Te war natsok pedai teng
-Bhrum yig ser gyi dokchen le		Od throe phak cho dro drib jang
-Tsur dus sid zhi dang chud kun		Mi ched chud du dril wa le
-Rinchen tsugtor chen mor zheng		Nyima char khai dang od chen
-Zhal chuk chak nyi zhi dzum gek		Dar dang rinchen metok gyan
-Chak ye chik jin chak gya ye		Norbui Chak chue tsepal guk
-Yon pe nyam zhag chak gyai teng	Ngodrup chok tsol tse bum nam
-Zhab zung dorjei kyil trung gyi		Odzer nang wai long na zhug
-Chok zhir dawai den gyi teng		Shar du dorje tsugtor thing
-Lho ru deshek tsugtor kar			Nub tu padmai tsugtor mar
-Jang du le ke tsugtor jang			Ye pe rang tak chak chu dang
-Yonpe dudtsi bum zang nam		dar dang rinchen gyan gyi dze
-Zhi dzum gek ching gye pai zhel		Sempai Kyil mo trung gi rol
-De yi chi rol nyi den la			Shar du miyo gonpo thing
-Ral dri deng shing chak chue deb		Lho ru dod pai gyalpo ser
-Rinchen deng shing zhak pe ching	Nub tu yug pa ngon po mar
-Thod yug deng shing drok gyi dom	Jang du tobchen dud kai dok
-Tse sum deng shing dribu throl		Kun chang trotum bar wai nyam
-Tag sham rinchen drul gyi gyan		Yeshe mepung dbu na ging
-Zhen yang sangye jang sem dang		Tse dang yeshe drub ter wai
-Lha dang drang song rigpa dzin		Pak ye nyi zer dul tar trig
-Ne sum OM AH HUNG gyi tsen		De le throe pai odzer gyi
-Yeshe pa kun chen drang gyur
 Arising out of shunyata, in the sky before me,
 On a ground made from many kinds of precious jewels,
 Flat like the palm of a hand,
@@ -610,8 +446,6 @@ Emanating boundless rays of light, they invoke the jnanasattvas.
 *Invoke the wisdom mandala with burning incense and music.*
 
 OM
-Choying tro pa drel wa le					Monlam nyingje kur zheng pa
-Tsugtor Namgyal lhatsok nam				Ne dir chen dren shek su sol
 OM
 From the unborn dharmadhatu,
 As the result of aspiration and compassion,
@@ -623,8 +457,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA   EI   HYE   HI
 JAH   HUM   BAM   HO
 *Merge samayasattva and jnanasattva, inseparable, with the four mudras.*
 
-Lar yang wang lha chen drang pa			Namkha gang war sed pa yi
-Yeshe dudtsi drima tru				Wang thob rigdak urgyan gyur
 Once again, I invite the empowerment deities,
 Who appear, filling the sky.
 They cleanse all impurities with amrita and bestow empowerments,
@@ -636,8 +468,6 @@ TRAM  HUM  OM  HRIH  AHOM  SARVA  TATHAGATA  ABHISHEKATE  SAMAYA  SHRI  HUM
 (3) Offer Prostrations
 
 OM
-Chomden chime gonpo yi					Tsugtor norbui Odzer gyi
-Yeshe phagmai zugsu shar				Nampar gyal mar chak tsal lo
 OM
 Boundless rays of light stream from the jeweled crown
 Of the Bhagawan protector Amitayus,
@@ -661,11 +491,6 @@ AVARANA   BISHO   DHANA   VAJRE   SVAHA
 *Then recite ten offerings:*
 
 4-1)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Cho yon dudtsi char chen bab		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -680,11 +505,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 ARGHAM   PRATISCHA   SVAHA
 
 4-2)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Zhab sil dak jed gyatsor kyil		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -699,11 +519,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 PADYAM   PRATISCHA   SVAHA
 
 4-3)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Tsar duk yid wong metok tsal		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -717,11 +532,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 PUSHPE   PRATISCHA   SVAHA
 
 4-4)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Drizhim duk poe chok chur geng		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -735,11 +545,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 DHUPE   PRATISCHA  SVAHA
 
 4-5)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Nangsal dronme od rab bar		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -753,11 +558,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE    SAPARIVARA
 ALOKE   PRATISCHA   SVAHA
 
 4-6)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Sil zhing dri zang dudtsi dreng		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -771,11 +571,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE     SAPARIVARA
 GANDHE   PRATISCHA   SVAHA
 
 4-7)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Zhal zey ro chud phunsum tsok		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -789,11 +584,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 NAIVEDHE   PRATISCHA   SVAHA
 
 4-8)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Bud trol dung wai rolmoi dra		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -807,11 +597,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 SHAPDA   PRATISCHA   SVAHA
 
 4-9)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Rinchen dug dze la dre dres		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -825,11 +610,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE    SAPARIVARA
 SCHATRAMGA   PRATISCHA   SVAHA
 
 4-10)	OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Trashi gewai ba den char			Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -846,51 +626,37 @@ PATAMGA   PRATISCHA   SVAHA
 *…by singing the melody and ringing the bell:*
 
 OM
-Rinchen le kye rinchen dak	Rinchen nyingpoi odzer gyi
-Rinchen yidzhin phel dzed pa	Rinchen tsugtor la chak tsal
 OM
 Precious sovereign, born from the precious jewels,
 By the rays of light emanating from these precious jewels,
 Increase the blessings of this precious essence according our wishes.
 To Ratna Ushnisha, I prostrate.
 
-Dorje rangzhin dorje yang			Dorje odzer tha ye pai
-Dorje dud de pham dzed pai		Dorje tsugtor la chak tsal
 Vajra song, the very nature of vajra,
 Defeats all the forces of our enemies
 With the vajra of limitless rays of light.
 To Vajra Ushnisha, I prostrate.
 
-Deshek yum gyur deshek sung		Deshek nangwai odzer trin
-Deshek gye pa drub dzed pai		Deshek tsugtor la chak tsal
 Speech of the sugatas, the mother of the sugatas,
 Clouds of rays of light, the perception of the sugatas,
 One who accomplishes the delights of the sugatas.
 To Sugata Ushnisha, I prostrate.
 
-Padmai jungney padmai dra		Padma zab pai gyatsoi od
-Padmai pal du guk dzed pa		Padmai tsugtor la chak tsal
 Lotus speech, the origin of the lotus,
 Ocean of light of the profound lotus,
 Gathered as the magnificence of the lotus.
 To Padma Ushnisha, I prostrate
 
-Le kyi rolpa le kyi thab			Le kun wang gyur drub pai od
-Le dang yeshe ngodrup ter			Le kyi tsugtor la chak tsal
 The display of activity is the method of activity.
 The light that brings under control all activities
 Grants the siddhi of activity and wisdom.
 To Karma Ushnisha, I prostrate.
 
-Tropai kur nang throwoi sung		Thro wa drel wai yeshe od
-Throe pe dud de tsar ched pai		Thro chen zhi la chak tsal lo
 Appearing in a wrathful form, with terrifying speech,
 The light of wisdom free from anger.
 You, who destroy the demon forces with anger.
 To the four Great Wrathful Deities, I prostrate.
 
-Chokui gongpa chik nyid le		Magak zug ku dumar ton
-Chok du gyalwa se dang che		Kyilkhor lhatsok kun la tod
 Infinite display of rupakaya,
 Emanating from a single unceasing dharmakaya intention,
 Buddhas and bodhisattvas of the ten directions and three times,
@@ -898,8 +664,6 @@ To all the Deities of the Mandala, I prostrate.
 
 (6)  Requesting the Deities to Act
 
-Dak dang thaye semchen gyi		Le nyon drib pa kun jang zhing
-Tsepal jorpa phel wa dang			Yeshe gye par dzed du sol
 Deities of the mandala,
 To purify the karmic defilements and conflicting emotions
 Of myself and limitless sentient beings.
@@ -910,16 +674,6 @@ b)  Reciting the Dharani and Making Offerings
 *The second part is divided into two.*
 
 (1) Meditative Absorption
-Rang gyi thuk ne odzer trin		Nyima char khai dang tar throe
-Dun gyi lha yi thuk kar phok		Thuk kyi damcha je kul te
-Shepa kyeme zod pai zung		Sheja kun dzin chokyi zung
-Yer me thuk chud don gyi zung		Ting dzin rolmo thaye pai
-Chotrul med jung tsik gyi zung		Tsokhor kun gyi thuk ka ne
-Ngak dang odzer drar che throe		Rabjam chok chui zhing kun chap
-Phakpa chod ching thuk dam kul		Semchen kun gyi dik drib jang
-Tse sod paljor yeshe pel			Sid zhi dang chud tham ched du
-Dak thim ngodrup nam nyi thob		Lha le dudtsi gyun bab pe
-Bumpa yong su gang war gyur
 From my heart emanates tremendous rays of light,
 Like the radiance of the sun at day break,
 Striking the hearts of the deities of the main visualization,
@@ -1003,15 +757,6 @@ OM   AH   HUM   HRAM   HRIH   AM   AH   RAKSHA   RAKSHA   MAM   SARVA SATVAM   S
 
 *Then, with head bowed, scatter the flowers or rice, or whatever offerings you have been holding, and after every ten recitations, making offerings by saying:*
 OM
-Rabjam chok chui zhing kun ne		Gyalwa se dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drub pai
-Cho yon dudtsi char chen beb		Zhab sil dak jed gyatsor kyil
-Tsar duk yid wong metok tsal		Dri zhim duk poe chok chur geng
-Nang sal dronme od rab bar		Sil zhing dri zang dudtsi dreng
-Zhal zey ro chud phunsum tsok		Bud trol dung wai rol moi dra
-Rinchen duk dze la dre dres		Trashi gewai ba den char
-Ngo jor yid kyi rab trul te			Phagma khor dang che la bul
-Zhe ne tsepal phel wa dang		Yeshe nangwa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1038,58 +783,42 @@ SHAPDA   SCHATRAMGA   PATAMGA   PRATISCHA   SVAHA
 *Offer praise by singing the melody and ringing the bell. And requesting the deities to act.*
 
 OM
-Richen le kye rinchen dak			Rinchen nyingpoi odzer gyi
-Rinchen yidzhin phel dzed pa		Rinchen tsugtor la chak tsal
 OM
 Precious sovereign, born from the precious jewels,
 By the rays of light emanating from these precious jewels,
 Increase the blessings of this precious essence according our wishes.
 To Ratna Ushnisha, I prostrate.
 
-Dorje rangzhin dorje yang			Dorje odzer tha ye pai
-Dorje dud de pham dzed pai		Dorje tsugtor la chak tsal
 Vajra song, the very nature of vajra,
 Defeats all the forces of our enemies
 With the vajra of limitless rays of light.
 To Vajra Ushnisha, I prostrate.
 
-Deshek yum gyur deshek sung		Deshek nangwai odzer trin
-Deshek gye pa drub dzed pai		Deshek tsugtor la chak tsal
 Speech of the sugatas, the mother of the sugatas,
 Clouds of rays of light, the perception of the sugatas,
 One who accomplishes the delights of the sugatas.
 To Sugata Ushnisha, I prostrate.
 
-Padmai jungney padmai dra		Padma zab pai gyatsoi od
-Padmai pal du guk dzed pa		Padmai tsugtor la chak tsal
 Lotus speech, the origin of the lotus,
 Ocean of light of the profound lotus,
 Gathered as the magnificence of the lotus.
 To Padma Ushnisha, I prostrate
 
-Le kyi rolpa le kyi thab			Le kun wang gyur drub pai od
-Le dang yeshe ngodrup ter			Le kyi tsugtor la chak tsal
 The display of activity is the method of activity.
 The light that brings under control all activities
 Grants the siddhi of activity and wisdom.
 To Karma Ushnisha, I prostrate.
 
-Tropai kur nang throwoi sung		Thro wa drel wai yeshe od
-Throe pe dud de tsar ched pai		Thro chen zhi la chak tsal lo
 Appearing in a wrathful form, with terrifying speech,
 The light of wisdom free from anger.
 You, who destroy the demon forces with anger.
 To the four Great Wrathful Deities, I prostrate.
 
-Chokui gongpa chik nyid le		Magak zug ku dumar ton
-Chok du gyalwa se dang che		Kyilkhor lhatsok kun la tod
 Infinite display of rupakaya,
 Emanating from a single unceasing dharmakaya intention,
 Buddhas and bodhisattvas of the ten directions and three times,
 To all the Deities of the Mandala, I prostrate.
 
-Dak dang thaye semchen gyi		Le nyon drib pa kun jang zhing
-Tsepal jorpa phel wa dang			Yeshe gye par dzed du sol
 Deities of the mandala,
 To purify the karmic defilements and conflicting emotions
 Of myself and limitless sentient beings.
@@ -1105,8 +834,6 @@ Wealth and wisdom, I pray.
 
 OM   SVABHAVA   SHUDHO   SARVA   DHARMA   SVABHAVA   SHUDHO   HAM
 
-OM le rinchen nod yang par		AH le torma dudtsi chud
-Hung gyi khadok dri ro dang		Nue pa phunsum tsok par gyur
 From the syllable OM, a spacious container appears.
 In the container, from the syllable AH
 Arises the torma of the essence of amrita.
@@ -1120,14 +847,6 @@ TVATA   OM   AH   HUM   PHAT   SVAHA
 *Since we must offer by reciting the mantra alone a thousand times, after every hundred mantras, recite this dedication and supplication for activity while playing small cymbals.*
 
 OM
-Lha dzey dam pai gyu le jung		Ting nge dzin gyi tob kyi trul
-Dod pai yonten med jung wai		Chojin torma dampa di
-Konchok sizhui dron nam chod		Le dang yeshe ngodrup tsol
-Gonpo yonten thuk dam kang		Gal kyen kun sol thun kyen pel
-Rik druk nyingje dron la jin		Bu lon len chak jang gyur chik
-Don gek jungpoi tsok la ngo		Jangchup sem kyi dul war shok
-Chojin dron nam thamched kun		Gye shing tsim pa chok gyur te
-Jigten kham ni ma lue par			Phende gya cher jung war shok
 OM
 With these offering gifts of supreme tormas,
 Replete with all objects of desire,
@@ -1158,8 +877,6 @@ May peace and happiness flourish throughout the world.
 *When the all mantra recitations, circumambulations, material offerings, offerings of praise and torma offerings are completed, purify with:*
 OM   SVABHAVA   SHUDHO   SARVA   DHARMA   SVABHAVA   SHUDHO   HAM
 
-OM le rinchen nod yang par		AH le torma dudtsi chud
-Hung gyi khadok dri ro dang		Nue pa phunsum tsok par gyur
 From the syllable OM, a spacious container appears.
 In the container, from the syllable AH
 Arises the torma of the essence of amrita.
@@ -1175,18 +892,6 @@ TVATA   OM   AH   HUM   PHAT   SVAHA
 *Attaching the “AKARO…” to the essential ten-syllable mantra, recite seven times as offerings.*
 
 OM
-Lha dzey dam pai gyu le jung			Ting nge dzin gyi tob kyi trul
-Dod pai yonten med jung wai			Chojin torma dampa di
-Kyilkhor lhatsok nam la chod			Le dang yeshe ngodrup tsol
-Chojin torma di zhe la				Naljor dak chag khorche la
-Ned med tse dang wangchuk dang		Pal dang drak dang kalwa zang
-Long ched gyachen kun thob ching		Zhi dang gye la sog pa yi
-Le kyi ngodrup dak la tsol				Damtsik chen gyi dak la sung
-Ngodrup kun gyi dong drok dzod		Due min chi dang ned nam dang
-Don dang gek nam med par dzod			Milam ngen dang tsen ma ngen
-Ja jed ngen pa med par dzod			Jigten de zhing lo lek dang
-Dru nam phel zhing chuk phel wa		Gelek tham ched jung wai ne
-Yid la dod pa kundrup shok
 OM
 Made from sacred substances,
 And emanated through the power of meditative concentration,
@@ -1213,10 +918,6 @@ May all our wishes, the source of auspiciousness, be fulfilled.
 *Bless the offering substances, make offerings and praise, and so on, as a conclusion.*
 *Refresh the offerings and, as mentioned above, bless with:*
 
-Choying shintu namdak thu		Chochen tenching drel jung tob
-Gyal wa se dang che nam kyi		Thukje monlam jinlap le
-Ne yul dewa chen gyi zhing		Cho tsok lha dzey le drup pai
-Nyer chod dod yon sam mi chab		Kunzang namthar kha chab gyur
 By the power of the immaculate dharmadhatu,
 The truth of the dharma of dependent arising,
 And the blessings of compassion and aspiration
@@ -1241,11 +942,6 @@ AVARANA   BISHO   DHANA   VAJRE   SVAHA
 *Also, recite praise and request what you wish for.*
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Cho yon dudtsi char chen bab		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1259,11 +955,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 ARGHAM   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Zhab sil dak jed gyatsor kyil		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1277,11 +968,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 PADYAM   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Tsar duk yid wong metok tsal		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1295,11 +981,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 PUSHPE   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Drizhim duk poe chok chur geng		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1313,11 +994,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 DHUPE   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Nangsal dronme od rab bar		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1331,11 +1007,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 ALOKE   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Sil zhing dri zang dudtsi dreng		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1349,11 +1020,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 GANDHE   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Zhal zey ro chud phunsum tsok		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1367,11 +1033,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 NAIVEDHE   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Bud trol dung wai rolmoi dra		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1385,11 +1046,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 SHAPDA   PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Rinchen dug dze la dre dres		Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1403,11 +1059,6 @@ OM   SARVA   TATHAGATA   USHNISHAVIJAYE   SAPARIVARA
 SCHATRAMGA    PRATISCHA   SVAHA
 
 OM
-Rabjam chok chui zhing kun ne		Gyalwa say dang che pa yi
-Monlam tob kyi trul pa dang		Lha mei sonam le drup pai
-Trashi gewai ba den char			Ngo jor yid kyi rab trul te
-Phagma khor dang che la bul		Zhe ne tsepal phel wa dang
-Yeshe nang wa gye par dzod
 OM
 From the infinite buddhafields of the ten directions—
 Appearing by the power of the aspiration of the buddhas and bodhisattvas,
@@ -1423,59 +1074,43 @@ PATAMGA   PRATISCHA   SVAHA
 ***Offer praise*** *by singing the melody and ringing the bell:*
 
 OM
-Richen le kye rinchen dak			Rinchen nyingpoi odzer gyi
-Rinchen yidzhin phel dzed pa		Rinchen tsugtor la chak tsal
 OM
 Precious sovereign, born from the precious jewels,
 By the rays of light emanating from these precious jewels,
 Increase the blessings of this precious essence according our wishes.
 To Ratna Ushnisha, I prostrate.
 
-Dorje rangzhin dorje yang			Dorje odzer tha ye pai
-Dorje dud de pham dzed pai		Dorje tsugtor la chak tsal
 Vajra song, the very nature of vajra,
 Defeats all the forces of our enemies
 With the vajra of limitless rays of light.
 To Vajra Ushnisha, I prostrate.
 
-Deshek yum gyur deshek sung		Deshek nangwai odzer trin
-Deshek gye pa drub dzed pai		Deshek tsugtor la chak tsal
 Speech of the sugatas, the mother of the sugatas,
 Clouds of rays of light, the perception of the sugatas,
 One who accomplishes the delights of the sugatas.
 To Sugata Ushnisha, I prostrate.
 
-Padmai jungney padmai dra		Padma zab pai gyatsoi od
-Padmai pal du guk dzed pa		Padmai tsugtor la chak tsal
 Lotus speech, the origin of the lotus,
 Ocean of light of the profound lotus,
 Gathered as the magnificence of the lotus.
 To Padma Ushnisha, I prostrate
 
-Le kyi rolpa le kyi thab			Le kun wang gyur drub pai od
-Le dang yeshe ngodrup ter			Le kyi tsugtor la chak tsal
 The display of activity is the method of activity.
 The light that brings under control all activities
 Grants the siddhi of activity and wisdom.
 To Karma Ushnisha, I prostrate.
 
-Tropai kur nang throwoi sung		Thro wa drel wai yeshe od
-Throe pe dud de tsar ched pai		Thro chen zhi la chak tsal lo
 Appearing in a wrathful form, with terrifying speech,
 The light of wisdom free from anger.
 You, who destroy the demon forces with anger.
 To the four Great Wrathful Deities, I prostrate.
 
-Chokui gongpa chik nyid le		Magak zug ku dumar ton
-Chok du gyalwa se dang che		Kyilkhor lhatsok kun la tod
 Infinite display of rupakaya,
 Emanating from a single unceasing dharmakaya intention,
 Buddhas and bodhisattvas of the ten directions and three times,
 To all the Deities of the Mandala, I prostrate.
 
 ***Request the deities to act*** *by reciting:*
-Dak dang thaye semchen gyi		Le nyon drib pa kun jang zhing
-Tsepal jorpa phel wa dang			Yeshe gye par dzed du sol
 Deities of the mandala,
 To purify the karmic defilements and conflicting emotions
 Of myself and limitless sentient beings.
@@ -1484,8 +1119,6 @@ Wealth and wisdom, I pray.
 
 3  CONFESSION
 
-Ma jor wa dang nyam pa dang		Gang yang dak mong lo yi ni
-Gye pa dang ni gyed tsal wa			De kun gon poe dzod par sol
 For any mistakes I have made in this practice
 If my offerings were inadequate or incomplete,
 And for whatever negative actions I have committed,
@@ -1497,8 +1130,6 @@ May the host of protectors forgive me.
 4  REQUESTING TO REMAIN
 
 OM
-Dir ni ten dang lhen chik tu		Khorwa sid du zhug ne chang
-Ned med tse dang wangchuk dang	Chok nam lek par tsal du sol
 OM
 Remain here, one with these images and objects
 For as long as samsara exists.
@@ -1510,8 +1141,6 @@ OM   SUPRA   TISHTHA   VAJRA   YE   SVAHA
 
 5  WHEEL OF PROTECTION
 
-Rang nyid nampar gyal ma yi		Ne sum OM AH HUNG gyi tsen
-Dorje sum gyi yeshe kyi			Gek dang barche sung war gyur
 Visualising myself as Ushnishavijaya,
 My three places marked with syllables OM AH HUM.
 By the wisdom of three vajras,
@@ -1523,8 +1152,6 @@ OM       AH     HUM
 6  DEDICATE THE MERIT
 
 HO
-Dod ne dak pai yeshe dang		Tenching dreljung sonam tsok
-Zungjuk due ma je pai long		Jangchup nyingpoi ying su ngo
 HO
 Primordially pure wisdom
 And the merit accumulated through cause and conditions *(karma)*,
@@ -1533,8 +1160,6 @@ The uncontrived, non-dual dharmadhatu.
 
 7  ASPIRATION
 
-Di ne kye wa tham ched du		Phakma chog gyi je zung ne
-Tse dang Ngodrup kyi			Rang zhen don nyi lhundrup shok
 From now on and in all my future lives,
 May I be cared for by the compassionate and Noble Mother,
 And through the siddhis of long life and wisdom,
@@ -1545,45 +1170,33 @@ May I spontaneously accomplish true benefit for myself and others.
 8  PRAYERS OF AUSPICIOUSNESS
 *Then, scattering flowers, recite:*
 
-Che wai chechok ton chok lana med		Choje nyima gyalwai jinlap kyi
-Dud dang gek rik nod pai dra zhi te		Taktu palne nyin tsen trashi shok
 Through the blessings of the Victorious One, the sun-like Lord of Dharma,
 The unsurpassable, peerless teacher, most exalted of all realised beings
 Having pacified the harmful influences of demons and obstacle-makers,
 May all be glorious and auspicious throughout time.
 
-Chonyid denpai chechok lana med		Damchoe dudtsi denpai jinlap kyi
-Nyon mong duk nga dungwai dra zhi te		Tak tu pal ne nyin tsen trashi shok
 By the blessings of the truth of nectar-like dharma,
 The matchless dharma of the truth of reality,
 Having pacified the torment of conflicting emotions,
 May all be glorious and auspicious throughout time.
 
-Gedun yonten rinchen palbar wa				Gyalse phen dzed den pai jinlap kyi
-Nye pai chon dral getsok nampar phel			Tak tu pal ne nyin tsen trashi shok
 The blessings of the truth of the beneficial activities of the bodhisattvas,
 The sangha, blazing with the splendour of precious qualities,
 Having been freed from unvirtuous activities and increased virtuousness,
 May all be glorious and may auspiciousness throughout time.
 
-Semchen gang dang dro dang mi dro wa		Dedak thamched deng dir de gyur chik
-Ton chuk dampa lha mei chod oe pa			Sangye chak tsal deng dir delek shok
 May all sentient beings without exception,
 Instantaneously be happy!
 Incomparable guides, the objects of veneration of gods and humans,
 To the buddhas, I prostrate!
 May auspiciousness instantaneously arise!
 
-Semchen gang dak dro dang mi dro wa		Dedak thamched deng dir de gyur chik
-Zhiwa chak drel lha mei chod oe pa		Cho la chak tsal deng dir delek shok
 May all sentient beings without exception,
 Instantaneously be happy!
 Free from all emotion, the object of veneration of gods and humans,
 To the dharma, I prostrate!
 May auspiciousness instantaneously arise!
 
-Semchen gang dak dro dang mi dro wa			Dedak tham ched deng dir de gyur chik
-Tsok kyi dampa lha mei chod oe pa			Gedun chak tsal deng dir de gyur chik
 May all sentient beings without exception,
 Instantaneously be happy!
 The most eminent assembly, the object of veneration of gods and humans,
