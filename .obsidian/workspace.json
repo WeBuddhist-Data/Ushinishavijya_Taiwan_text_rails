@@ -199,6 +199,7 @@
   },
   "active": "a99fc0a341b15e43",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-root-text.md",
     "1-SOURCES/Text/en-root-text.md",
     "README.md",
     "0-INBOX/raw-data/Ushnisha_English.docx",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md"
+    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
   ]
 }
