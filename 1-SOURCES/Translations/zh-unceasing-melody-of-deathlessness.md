@@ -1,25 +1,32 @@
 ---
 title: "無死恆常妙音"
 translator: ""
-language: Chinese (Traditional)
+language: chinese
 script: Traditional Chinese
 file_type: translation
 lang_tag: zh
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md
 translation_basis: ""
-covers_verses: 0-1–a-1
+covers_verses: I-1–a-1
 source_description: "Split on 2026-11-05 from 1-SOURCES/Translations/zh.md (old blocks ^0-1 to ^1-10), which was extracted from the trilingual Word file Ushinisha_Text.doc (received as Ushnisha_Chinese.docx; 0-INBOX/raw-data/). Chinese phonetic renderings of the Tibetan verses removed; mantras and dharanis kept; two-column verse lines split one half-line per line. Each block transcludes the matching block of the English root text."
+source: https://siddharthasintent.org/liturgies/ushnisha-vijaya/
+license: cc0
+category_id: LCorCb2K98p3TICt3UCDm
 status: 0-raw
 source_url:
+text_id: Xz7ntf6g7ymBMqnCR7fPO
+edition_id: 4UqlbsIXAIJGBWCJflaQc
+aligned_to_edition_id: fyJBmNQTznJuPvkgnbNcB
+toc_id: VsRCjEmBCQFfKKfYn91Ec
 ---
 
 # 無死恆常妙音 ^0
 
-![[1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md#^0-1]]
+![[1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md#^I-1]]
 
 無死聖度母心要之支分 五種姓佛頂尊勝佛母千供
-傳承祈請文 ^0-1
+傳承祈請文 ^I-1
 
 ![[1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md#^1-1]]
 

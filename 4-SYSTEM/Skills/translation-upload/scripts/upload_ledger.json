@@ -1,1 +1,142 @@
-{}
+{
+  "zh-immaculate-jewel": {
+    "aligned_to_edition_id": "yUo0w5hE268IK9rBQ5iNC",
+    "edition_id": "maWbtjE3QuINk0nb0j5aQ",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "fm1z8xrrpOTCrfImGwU7F",
+        "ts": "2026-11-05T18:10:36"
+      },
+      {
+        "chars": 11809,
+        "edition_id": "maWbtjE3QuINk0nb0j5aQ",
+        "segments": 191,
+        "step": "edition",
+        "ts": "2026-11-05T18:10:37"
+      },
+      {
+        "pairs": 190,
+        "root_edition_id": "yUo0w5hE268IK9rBQ5iNC",
+        "step": "alignment",
+        "ts": "2026-11-05T18:10:37"
+      },
+      {
+        "step": "toc",
+        "subsections": 4,
+        "toc_id": "9gBxmvHcFrfNd0vZK9Lcg",
+        "ts": "2026-11-05T18:10:37"
+      }
+    ],
+    "root_edition_id": "yUo0w5hE268IK9rBQ5iNC",
+    "root_text_id": "rA4VKr2wNW3S2cut8xnMQ",
+    "text_id": "fm1z8xrrpOTCrfImGwU7F",
+    "toc_id": "9gBxmvHcFrfNd0vZK9Lcg"
+  },
+  "zh-melodious-speech-that-gathers-auspiciousness": {
+    "aligned_to_edition_id": "bE13t39xQJ6J1BhWbnuCu",
+    "edition_id": "7CMVvjgHEFyp4g6OFTxeD",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "7xDNI4yKp6ZYk3eHOC2Go",
+        "ts": "2026-11-05T18:09:19"
+      },
+      {
+        "chars": 1473,
+        "edition_id": "7CMVvjgHEFyp4g6OFTxeD",
+        "segments": 35,
+        "step": "edition",
+        "ts": "2026-11-05T18:09:19"
+      },
+      {
+        "pairs": 34,
+        "root_edition_id": "bE13t39xQJ6J1BhWbnuCu",
+        "step": "alignment",
+        "ts": "2026-11-05T18:09:19"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "zZjJMKj1CGCSVj9LhMjeh",
+        "ts": "2026-11-05T18:09:20"
+      }
+    ],
+    "root_edition_id": "bE13t39xQJ6J1BhWbnuCu",
+    "root_text_id": "zyPMwVWGJVwtV220IuK62",
+    "text_id": "7xDNI4yKp6ZYk3eHOC2Go",
+    "toc_id": "zZjJMKj1CGCSVj9LhMjeh"
+  },
+  "zh-unceasing-melody-of-deathlessness": {
+    "aligned_to_edition_id": "fyJBmNQTznJuPvkgnbNcB",
+    "edition_id": "4UqlbsIXAIJGBWCJflaQc",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "Xz7ntf6g7ymBMqnCR7fPO",
+        "ts": "2026-11-05T18:09:20"
+      },
+      {
+        "chars": 417,
+        "edition_id": "4UqlbsIXAIJGBWCJflaQc",
+        "segments": 11,
+        "step": "edition",
+        "ts": "2026-11-05T18:09:21"
+      },
+      {
+        "pairs": 11,
+        "root_edition_id": "fyJBmNQTznJuPvkgnbNcB",
+        "step": "alignment",
+        "ts": "2026-11-05T18:09:21"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "VsRCjEmBCQFfKKfYn91Ec",
+        "ts": "2026-11-05T18:09:21"
+      }
+    ],
+    "root_edition_id": "fyJBmNQTznJuPvkgnbNcB",
+    "root_text_id": "gg1KdJFKdj87hlYvg6Pzu",
+    "text_id": "Xz7ntf6g7ymBMqnCR7fPO",
+    "toc_id": "VsRCjEmBCQFfKKfYn91Ec"
+  },
+  "zh-words-of-the-lord-mahasiddha": {
+    "aligned_to_edition_id": "A067O36fZXJdhI0pJguEn",
+    "edition_id": "yNPXl88OkUPHQPqzGFLmK",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "bYIEXHpR0XL0Kg1d2jtpI",
+        "ts": "2026-11-05T18:09:22"
+      },
+      {
+        "chars": 412,
+        "edition_id": "yNPXl88OkUPHQPqzGFLmK",
+        "segments": 9,
+        "step": "edition",
+        "ts": "2026-11-05T18:09:22"
+      },
+      {
+        "pairs": 9,
+        "root_edition_id": "A067O36fZXJdhI0pJguEn",
+        "step": "alignment",
+        "ts": "2026-11-05T18:09:22"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "Zh1vjs92DhAcDwA0tSGLK",
+        "ts": "2026-11-05T18:09:22"
+      }
+    ],
+    "root_edition_id": "A067O36fZXJdhI0pJguEn",
+    "root_text_id": "LlXVQaLZDGKnW3ToDbSMF",
+    "text_id": "bYIEXHpR0XL0Kg1d2jtpI",
+    "toc_id": "Zh1vjs92DhAcDwA0tSGLK"
+  }
+}

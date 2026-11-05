@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://siddharthasintent.org/liturgies/ushnisha-vijaya/"
+  },
+  "content": "薩迦除病發願文名為   大成就者之語頂禮薄伽梵誓願成就王業及短暫諸緣所導致惡毒精靈疾病魔障等傷害眾生令心痛苦者願皆永不出現於世間猶如死囚被牽赴刑場一剎那間令身心分離身心劇苦毀生命精華願皆永不出現於世間諸多劇烈傳染流行病聞名如陷可怖死主口無論長期甚至一日間祈願眾生永不受其苦由八萬種惱害作障者三百六十惡行取巧者四百零四種類諸疾病祈願眾生永不受其害四大不調破壞身心樂祈願彼等清淨無一餘願諸眾生快樂離病苦增長寂靜榮耀與力量願因上師三寶加持力空行護法殊勝護佑力無欺因緣果報真諦力願所發願迴向皆成就有一次吉祥薩迦寺有多種疫病流行，當時，許多咒士，用盡各種不同的驅邪、藥物、符咒、儀軌等方法，皆無法消除疾病。當時薩迦寺因而變得非常荒涼。就在此時，大成就者（譯者註：當通介波）指示寺廟中的出家眾念誦皈依、六字大明咒，以及此發願文，出家眾依此指示去做，疫病立刻終止。所以，此願文被稱為薩迦除病發願文，而且，被譽為能帶來如雲海之加持的金剛語。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 7
+          },
+          {
+            "start": 7,
+            "end": 18
+          }
+        ],
+        "type": "front_matter",
+        "reference": "I-1"
+      },
+      {
+        "lines": [
+          {
+            "start": 18,
+            "end": 28
+          }
+        ],
+        "type": "front_matter",
+        "reference": "I-2"
+      },
+      {
+        "lines": [
+          {
+            "start": 28,
+            "end": 37
+          },
+          {
+            "start": 37,
+            "end": 46
+          },
+          {
+            "start": 46,
+            "end": 55
+          },
+          {
+            "start": 55,
+            "end": 64
+          }
+        ],
+        "type": "verse",
+        "reference": "1-1"
+      },
+      {
+        "lines": [
+          {
+            "start": 64,
+            "end": 73
+          },
+          {
+            "start": 73,
+            "end": 82
+          },
+          {
+            "start": 82,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "end": 100
+          }
+        ],
+        "type": "verse",
+        "reference": "1-2"
+      },
+      {
+        "lines": [
+          {
+            "start": 100,
+            "end": 109
+          },
+          {
+            "start": 109,
+            "end": 118
+          },
+          {
+            "start": 118,
+            "end": 127
+          },
+          {
+            "start": 127,
+            "end": 136
+          }
+        ],
+        "type": "verse",
+        "reference": "1-3"
+      },
+      {
+        "lines": [
+          {
+            "start": 136,
+            "end": 145
+          },
+          {
+            "start": 145,
+            "end": 154
+          },
+          {
+            "start": 154,
+            "end": 163
+          },
+          {
+            "start": 163,
+            "end": 172
+          }
+        ],
+        "type": "verse",
+        "reference": "1-4"
+      },
+      {
+        "lines": [
+          {
+            "start": 172,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "end": 190
+          },
+          {
+            "start": 190,
+            "end": 199
+          },
+          {
+            "start": 199,
+            "end": 208
+          }
+        ],
+        "type": "verse",
+        "reference": "1-5"
+      },
+      {
+        "lines": [
+          {
+            "start": 208,
+            "end": 217
+          },
+          {
+            "start": 217,
+            "end": 226
+          },
+          {
+            "start": 226,
+            "end": 235
+          },
+          {
+            "start": 235,
+            "end": 244
+          }
+        ],
+        "type": "verse",
+        "reference": "1-6"
+      },
+      {
+        "lines": [
+          {
+            "start": 244,
+            "end": 312
+          },
+          {
+            "start": 312,
+            "end": 412
+          }
+        ],
+        "type": "back_matter",
+        "reference": "a-1"
+      }
+    ]
+  }
+}

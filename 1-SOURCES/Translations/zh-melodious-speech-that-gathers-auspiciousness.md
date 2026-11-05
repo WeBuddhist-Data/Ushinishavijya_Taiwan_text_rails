@@ -1,25 +1,32 @@
 ---
 title: "匯聚吉祥悅耳文"
 translator: "馬君美"
-language: Chinese (Traditional)
+language: chinese
 script: Traditional Chinese
 file_type: translation
 lang_tag: zh
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md
 translation_basis: "Per its own colophon (^a-1): translated from English into Chinese by 馬君美 in 2008-05, revised 2010-12; the English was translated from the Tibetan by Sonam Phuntsho and Steve Cline in 2008-03."
-covers_verses: 0-1–a-1
+covers_verses: I-1–a-1
 source_description: "Split on 2026-11-05 from 1-SOURCES/Translations/zh.md (old blocks ^1-229 to ^1-262, plus ^a-2), which was extracted from the trilingual Word file Ushinisha_Text.doc (received as Ushnisha_Chinese.docx; 0-INBOX/raw-data/). Chinese phonetic renderings of the Tibetan verses removed; mantras and dharanis kept; two-column verse lines split one half-line per line. Each block transcludes the matching block of the English root text. Chinese-only blocks with no English counterpart: a-2."
+source: https://siddharthasintent.org/liturgies/ushnisha-vijaya/
+license: cc0
+category_id: LCorCb2K98p3TICt3UCDm
 status: 0-raw
 source_url:
+text_id: 7xDNI4yKp6ZYk3eHOC2Go
+edition_id: 7CMVvjgHEFyp4g6OFTxeD
+aligned_to_edition_id: bE13t39xQJ6J1BhWbnuCu
+toc_id: zZjJMKj1CGCSVj9LhMjeh
 ---
 
 # 匯聚吉祥悅耳文 ^0
 
-![[1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md#^0-1]]
+![[1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md#^I-1]]
 
 遍知蔣揚欽哲旺波生平祈請文
-名為  匯聚吉祥悅耳文 ^0-1
+名為  匯聚吉祥悅耳文 ^I-1
 
 ![[1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md#^1-1]]
 

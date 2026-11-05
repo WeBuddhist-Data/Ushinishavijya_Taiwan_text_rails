@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/zh-immaculate-jewel.md",
+  "validated_at": "2026-11-05T12:38:56.087715+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/en-immaculate-jewel.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://siddharthasintent.org/liturgies/ushnisha-vijaya/'",
+    "toc: 50 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator '周威龍、馬君美': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "zh": "無垢摩尼"
+    },
+    "alt_titles": null,
+    "language": "zh",
+    "commentary_of": null,
+    "translation_of": "rA4VKr2wNW3S2cut8xnMQ",
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

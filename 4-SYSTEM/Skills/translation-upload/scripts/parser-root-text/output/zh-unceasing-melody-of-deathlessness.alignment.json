@@ -1,0 +1,48 @@
+{
+  "alignments": [
+    {
+      "source_segment_reference": "I-1",
+      "target_segment_reference": "I-1"
+    },
+    {
+      "source_segment_reference": "1-1",
+      "target_segment_reference": "1-1"
+    },
+    {
+      "source_segment_reference": "1-2",
+      "target_segment_reference": "1-2"
+    },
+    {
+      "source_segment_reference": "1-3",
+      "target_segment_reference": "1-3"
+    },
+    {
+      "source_segment_reference": "1-4",
+      "target_segment_reference": "1-4"
+    },
+    {
+      "source_segment_reference": "1-5",
+      "target_segment_reference": "1-5"
+    },
+    {
+      "source_segment_reference": "1-6",
+      "target_segment_reference": "1-6"
+    },
+    {
+      "source_segment_reference": "1-7",
+      "target_segment_reference": "1-7"
+    },
+    {
+      "source_segment_reference": "1-8",
+      "target_segment_reference": "1-8"
+    },
+    {
+      "source_segment_reference": "1-9",
+      "target_segment_reference": "1-9"
+    },
+    {
+      "source_segment_reference": "a-1",
+      "target_segment_reference": "a-1"
+    }
+  ]
+}

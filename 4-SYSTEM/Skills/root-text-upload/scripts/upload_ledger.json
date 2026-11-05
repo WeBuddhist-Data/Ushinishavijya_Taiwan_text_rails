@@ -1,1 +1,114 @@
-{}
+{
+  "en-immaculate-jewel": {
+    "edition_id": "yUo0w5hE268IK9rBQ5iNC",
+    "file_type": "root-text",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "rA4VKr2wNW3S2cut8xnMQ",
+        "ts": "2026-11-05T17:59:57"
+      },
+      {
+        "chars": 53002,
+        "edition_id": "yUo0w5hE268IK9rBQ5iNC",
+        "segments": 190,
+        "step": "edition",
+        "ts": "2026-11-05T17:59:58"
+      },
+      {
+        "step": "toc",
+        "subsections": 4,
+        "toc_id": "G0weCYbYs3moxJQ6RyK1n",
+        "ts": "2026-11-05T17:59:58"
+      }
+    ],
+    "source_file": "1-SOURCES\\Text\\en-immaculate-jewel.md",
+    "text_id": "rA4VKr2wNW3S2cut8xnMQ",
+    "toc_id": "G0weCYbYs3moxJQ6RyK1n"
+  },
+  "en-melodious-speech-that-gathers-auspiciousness": {
+    "edition_id": "bE13t39xQJ6J1BhWbnuCu",
+    "file_type": "root-text",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "zyPMwVWGJVwtV220IuK62",
+        "ts": "2026-11-05T17:59:59"
+      },
+      {
+        "chars": 8764,
+        "edition_id": "bE13t39xQJ6J1BhWbnuCu",
+        "segments": 34,
+        "step": "edition",
+        "ts": "2026-11-05T17:59:59"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "VNBTWumeJrXk9YcO1ez7u",
+        "ts": "2026-11-05T18:00:00"
+      }
+    ],
+    "source_file": "1-SOURCES\\Text\\en-melodious-speech-that-gathers-auspiciousness.md",
+    "text_id": "zyPMwVWGJVwtV220IuK62",
+    "toc_id": "VNBTWumeJrXk9YcO1ez7u"
+  },
+  "en-unceasing-melody-of-deathlessness": {
+    "edition_id": "fyJBmNQTznJuPvkgnbNcB",
+    "file_type": "root-text",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "gg1KdJFKdj87hlYvg6Pzu",
+        "ts": "2026-11-05T18:00:00"
+      },
+      {
+        "chars": 2629,
+        "edition_id": "fyJBmNQTznJuPvkgnbNcB",
+        "segments": 11,
+        "step": "edition",
+        "ts": "2026-11-05T18:00:01"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "5MiQfrKKGP0ralC9slc2x",
+        "ts": "2026-11-05T18:00:01"
+      }
+    ],
+    "source_file": "1-SOURCES\\Text\\en-unceasing-melody-of-deathlessness.md",
+    "text_id": "gg1KdJFKdj87hlYvg6Pzu",
+    "toc_id": "5MiQfrKKGP0ralC9slc2x"
+  },
+  "en-words-of-the-lord-mahasiddha": {
+    "edition_id": "A067O36fZXJdhI0pJguEn",
+    "file_type": "root-text",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "LlXVQaLZDGKnW3ToDbSMF",
+        "ts": "2026-11-05T18:00:02"
+      },
+      {
+        "chars": 2210,
+        "edition_id": "A067O36fZXJdhI0pJguEn",
+        "segments": 9,
+        "step": "edition",
+        "ts": "2026-11-05T18:00:02"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "3lrw7sTenNm9W161vrZZF",
+        "ts": "2026-11-05T18:00:02"
+      }
+    ],
+    "source_file": "1-SOURCES\\Text\\en-words-of-the-lord-mahasiddha.md",
+    "text_id": "LlXVQaLZDGKnW3ToDbSMF",
+    "toc_id": "3lrw7sTenNm9W161vrZZF"
+  }
+}

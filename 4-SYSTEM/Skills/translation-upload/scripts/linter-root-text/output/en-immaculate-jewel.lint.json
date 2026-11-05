@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/en-immaculate-jewel.md",
+  "validated_at": "2026-11-05T12:17:06.959573+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://siddharthasintent.org/liturgies/ushnisha-vijaya/'",
+    "toc: 50 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The Immaculate Jewel"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "ZPcgMZgVJxAMQ7rpfW72a",
+      "FZ5STsdU0eLvo7Nb2CpvH"
+    ]
+  }
+}

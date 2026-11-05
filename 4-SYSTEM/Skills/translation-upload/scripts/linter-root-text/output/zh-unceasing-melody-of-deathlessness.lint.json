@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/zh-unceasing-melody-of-deathlessness.md",
+  "validated_at": "2026-11-05T12:38:58.239406+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://siddharthasintent.org/liturgies/ushnisha-vijaya/'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "zh": "無死恆常妙音"
+    },
+    "alt_titles": null,
+    "language": "zh",
+    "commentary_of": null,
+    "translation_of": "gg1KdJFKdj87hlYvg6Pzu",
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
