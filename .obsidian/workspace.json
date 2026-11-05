@@ -193,11 +193,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/Ushnisha_English.docx",
+    "1-SOURCES/Text/en-root-text.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -210,7 +213,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -232,7 +234,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/create-skill/SKILL.md"
   ]
 }
