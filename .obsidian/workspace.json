@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/en-root-text.md",
+                "file": "1-SOURCES/Translations/zh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "en-root-text"
+              "title": "zh"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "a99fc0a341b15e43",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-root-text.md",
     "1-SOURCES/Text/en-root-text.md",
+    "0-INBOX/raw-data/Ushnisha_Chinese.docx",
+    "1-SOURCES/Translations/zh.md",
+    "1-SOURCES/Text/bo-root-text.md",
     "README.md",
     "0-INBOX/raw-data/Ushnisha_English.docx",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -213,7 +215,6 @@
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "CLAUDE.md",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -232,8 +233,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }

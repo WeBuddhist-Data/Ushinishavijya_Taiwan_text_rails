@@ -9,6 +9,7 @@ source_description: "English text of the Ushnishavijaya dharani consecration and
 status: 0-raw
 verse_id_format: chapter-verse
 related_translations:
+  - 1-SOURCES/Translations/zh.md
 bdrc_work_id:
 school:
 copyright:
