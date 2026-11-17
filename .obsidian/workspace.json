@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/zh-immaculate-jewel.md",
+                "file": "1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zh-immaculate-jewel"
+              "title": "en-melodious-speech-that-gathers-auspiciousness"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "a99fc0a341b15e43",
   "lastOpenFiles": [
+    "1-SOURCES/Text/en-immaculate-jewel.md",
+    "1-SOURCES/Translations/zh-immaculate-jewel.md",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-words-of-the-lord-mahasiddha.toc.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-words-of-the-lord-mahasiddha.text.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-words-of-the-lord-mahasiddha.edition.json",
@@ -209,12 +211,9 @@
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-melodious-speech-that-gathers-auspiciousness.edition.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-unceasing-melody-of-deathlessness.alignment.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-melodious-speech-that-gathers-auspiciousness.toc.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-melodious-speech-that-gathers-auspiciousness.text.json",
-    "1-SOURCES/Text/en-immaculate-jewel.md",
     "1-SOURCES/Text/en-words-of-the-lord-mahasiddha.md",
     "1-SOURCES/Text/en-unceasing-melody-of-deathlessness.md",
     "1-SOURCES/Text/en-melodious-speech-that-gathers-auspiciousness.md",
-    "1-SOURCES/Translations/zh-immaculate-jewel.md",
     "1-SOURCES/Translations/zh-melodious-speech-that-gathers-auspiciousness.md",
     "1-SOURCES/Translations/zh-unceasing-melody-of-deathlessness.md",
     "1-SOURCES/Translations/zh-words-of-the-lord-mahasiddha.md",
